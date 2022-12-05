@@ -1,0 +1,39 @@
+header {
+    color: rgb(137, 35, 35);
+    background-color: yellow;
+
+}
+
+h1 {
+    font-size:80px;
+}
+
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  .column {
+    flex: 33%;
+    padding: 0 4px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }
+
+
+
+
+footer {
+    color: white;
+    background-color: black;
+}
+
+.footer_class {
+
+    font-size: 10px;
+}
